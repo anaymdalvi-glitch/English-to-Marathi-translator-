@@ -1,0 +1,5 @@
+{
+  "name": "AI Language Translator",
+  "description": "A powerful and clear application to translate English text into Marathi or Hindi using AI, with an option to download the translated script.",
+  "requestFramePermissions": []
+}
